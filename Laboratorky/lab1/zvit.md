@@ -67,13 +67,13 @@ y(x) =
 ## 4) Код:
 
 ### Завдання 1:
-
+```
 #include <stdio.h>
 
 int main() {
     float x = 4.0f;
     float y;
-
+    
     if (x >= 8.0f) {
         if (x < 23.0f) {
             y = -5.0f * x * x * x + 10.0f;
@@ -96,15 +96,15 @@ int main() {
     }
     return 0;
     }
-
+```
 ### Завдання 2: 
-
+```
 #include <stdio.h>
 
 int main() {
     float x = -2.0f;
     float y;
-
+    
     if (x >= 8.0f && x < 23.0f) {
         y = -5.0f * x * x * x + 10.0f;
         printf("%f = %f\n", x, y);
@@ -116,4 +116,4 @@ int main() {
     }
     return 0;
     }
-
+```
