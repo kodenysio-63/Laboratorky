@@ -117,3 +117,49 @@ int main() {
     return 0;
     }
 ```
+## 5) Тестування (скріншоти):
+### Завдання 1:
+(Тест 1 x = -2.0f)
+
+<img width="2670" height="1514" alt="image" src="https://github.com/user-attachments/assets/f8740276-6a7c-4505-8301-acdb631c33e4" />
+
+(Тест 2 x = 12.0f)
+
+<img width="2648" height="1546" alt="image" src="https://github.com/user-attachments/assets/3aaf5ef4-3a95-4133-8daf-81cf4bb4d0dc" />
+
+(Тест 3 x = -30.0f)
+
+<img width="2662" height="1538" alt="image" src="https://github.com/user-attachments/assets/43161526-5713-45cb-acbb-10859c702c8c" />
+
+(Тест 4 x = -19.32)
+
+<img width="2616" height="1474" alt="image" src="https://github.com/user-attachments/assets/ea800428-f6c7-41c3-b671-251fe9718f7c" />
+
+(Тест 5 x = -10)
+
+<img width="2622" height="1554" alt="image" src="https://github.com/user-attachments/assets/f2e3632b-2c99-4f0f-8b5a-156072b05746" />
+
+Завдання 2:
+(Тест 1 x = -2.0f)
+
+<img width="2442" height="1482" alt="image" src="https://github.com/user-attachments/assets/a6c91c06-10e4-4e5e-9646-2db1b14ad175" />
+
+(Тест 2 x = 12.0f)
+
+<img width="2416" height="1550" alt="image" src="https://github.com/user-attachments/assets/08163613-403e-46a6-99d0-f25bbcbc78b6" />
+
+(Тест 3 x = -30.0f)
+
+<img width="2528" height="1528" alt="image" src="https://github.com/user-attachments/assets/6b3e99a8-828b-43b7-b229-2c2ae0edfd07" />
+
+(Тест 4 x = -19.32)
+
+<img width="2538" height="1566" alt="image" src="https://github.com/user-attachments/assets/0219bde5-986d-4477-9ae2-3e0a39720ccf" />
+
+(Тест 5 x = -10)
+
+<img width="2574" height="1554" alt="image" src="https://github.com/user-attachments/assets/ff3a8844-ca43-4e83-af0b-2d2017e237e0" />
+
+## 6) Висновок:
+
+Під час виконання завдань проблем не виникало. Я навчився створювати розгалужені алгоритми та створювати код як без логічних функцій, так і з ними. На додачу розібрався як користуватись Гіт хабом.
